@@ -1,0 +1,7 @@
+D:\C#\Server\DummyClient\bin\Debug\DummyClient.exe.config
+D:\C#\Server\DummyClient\bin\Debug\DummyClient.exe
+D:\C#\Server\DummyClient\bin\Debug\DummyClient.pdb
+D:\C#\Server\DummyClient\obj\Debug\DummyClient.csproj.AssemblyReference.cache
+D:\C#\Server\DummyClient\obj\Debug\DummyClient.csproj.CoreCompileInputs.cache
+D:\C#\Server\DummyClient\obj\Debug\DummyClient.exe
+D:\C#\Server\DummyClient\obj\Debug\DummyClient.pdb

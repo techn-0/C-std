@@ -1,0 +1,7 @@
+D:\C#\Server\ServerCore\bin\Release\ServerCore.exe.config
+D:\C#\Server\ServerCore\bin\Release\ServerCore.exe
+D:\C#\Server\ServerCore\bin\Release\ServerCore.pdb
+D:\C#\Server\ServerCore\obj\Release\ServerCore.csproj.AssemblyReference.cache
+D:\C#\Server\ServerCore\obj\Release\ServerCore.csproj.CoreCompileInputs.cache
+D:\C#\Server\ServerCore\obj\Release\ServerCore.exe
+D:\C#\Server\ServerCore\obj\Release\ServerCore.pdb
