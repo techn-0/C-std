@@ -5,3 +5,10 @@ D:\C#\Server\ServerCore\obj\Release\ServerCore.csproj.AssemblyReference.cache
 D:\C#\Server\ServerCore\obj\Release\ServerCore.csproj.CoreCompileInputs.cache
 D:\C#\Server\ServerCore\obj\Release\ServerCore.exe
 D:\C#\Server\ServerCore\obj\Release\ServerCore.pdb
+D:\C#\CS-std\Server\ServerCore\bin\Release\ServerCore.exe.config
+D:\C#\CS-std\Server\ServerCore\bin\Release\ServerCore.exe
+D:\C#\CS-std\Server\ServerCore\bin\Release\ServerCore.pdb
+D:\C#\CS-std\Server\ServerCore\obj\Release\ServerCore.csproj.AssemblyReference.cache
+D:\C#\CS-std\Server\ServerCore\obj\Release\ServerCore.csproj.CoreCompileInputs.cache
+D:\C#\CS-std\Server\ServerCore\obj\Release\ServerCore.exe
+D:\C#\CS-std\Server\ServerCore\obj\Release\ServerCore.pdb
